@@ -21,3 +21,16 @@
 .packagesBorder{
 	border: 2px solid whitesmoke;
 }
+
+/*packagesDeails img size*/
+.packagesDetails{
+	width: 20px;
+	height:20px;
+}
+
+/*places.html*/
+.placesLogo{
+	width: 30px;
+	height: 30px;
+}
+
