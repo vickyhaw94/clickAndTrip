@@ -1,3 +1,4 @@
+/*index.html*/
 /*change the carousel slideshow size */
 .carousel-inner{
 	width: 100%;
@@ -14,4 +15,9 @@
 .category{
 	width: 50px;
 	height: 50px;
+}
+
+/*packages.html*/
+.packagesBorder{
+	border: 2px solid whitesmoke;
 }
